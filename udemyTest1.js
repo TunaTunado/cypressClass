@@ -1,4 +1,4 @@
-<reference types="Cypress" />
+/// <reference types="Cypress" />
 describe('Tests Udemy', function()
 //First simple code to just add products on the cart.
 {
