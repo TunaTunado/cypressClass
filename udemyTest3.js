@@ -4,7 +4,7 @@ describe('Tests Udemy', function()
 //Now we will try to make it optimized
 {
     
-    it('my first test case', function(){
+    it('Test Case 3', function(){
         cy.viewport(1440, 900),
         cy.visit("https://rahulshettyacademy.com/seleniumPractise/#/"); //cy.visit to visit
         cy.get('.search-keyword').type('ca'); //search for the CSS selector and type
