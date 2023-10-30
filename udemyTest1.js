@@ -1,6 +1,5 @@
 /// <reference types="Cypress" />
-describe('Tests Udemy', function()
-//First simple code to just add products on the cart.
+describe('Test 1 Udemy', function()
 {
     
     it('my first test case', function(){
@@ -27,6 +26,7 @@ describe('Tests Udemy', function()
             }
             
         })
+        
         
     })
 

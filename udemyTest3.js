@@ -1,9 +1,10 @@
 /// <reference types="Cypress" />
-describe('Tests Udemy', function()
+describe('Test 3 Udemy', function()
+//First simple code to just add products on the cart.
 //Now we will try to make it optimized
 {
     
-    it('Test Case 3', function(){
+    it('my first test case', function(){
         cy.viewport(1440, 900),
         cy.visit("https://rahulshettyacademy.com/seleniumPractise/#/"); //cy.visit to visit
         cy.get('.search-keyword').type('ca'); //search for the CSS selector and type

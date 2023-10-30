@@ -1,7 +1,5 @@
 /// <reference types="Cypress" />
-describe('Tests Udemy', function()
-//First simple code to just add products on the cart.
-//Now we will try to make it optimized
+describe('Test 4 Udemy', function()
 {
     
     it('Upgrading test 3', function(){
